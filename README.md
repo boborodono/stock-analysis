@@ -1,4 +1,4 @@
-# Stock-Analysis
+# Stock-Analysis - VBA Challenge
 
 ## Overview of Project
 The purpose of this project is to help Scott determine his returns on 12 different stocks in the years 2017-2018. We could have performed this analysis manually but are using VBA to automate the reporting and calculation processes to decrease the the chance of errors and reduce the amount of time needed to run the analysis.
@@ -19,4 +19,4 @@ The purpose of this project is to help Scott determine his returns on 12 differe
 
 - Refactoring code will often happen when you need to use someone else's code to perform an analysis. Refactoring can be advantageous because as long as the original code functioned properly the framework is already provided and can act as a roadmap to tool the code for your own purposes. This can save time and energy.
 
--The disadvantages of refactoring code are that not every coder writes their code the same way and without clear comments and proper use of whitespace... the code may be difficult to decipher/understand and therefore may actually make it more troublesome when trying to refactor. This could lead to initial code errors and more time spent trying to debug when it may have been less time consuming and energy intensive to write the code from scratch.
+- The disadvantages of refactoring code are that not every coder writes their code the same way and without clear comments and proper use of whitespace... the code may be difficult to decipher/understand and therefore may actually make it more troublesome when trying to refactor. This could lead to initial code errors and more time spent trying to debug when it may have been less time consuming and energy intensive to write the code from scratch.
